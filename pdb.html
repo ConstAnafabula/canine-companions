@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canine Companions</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;1,400&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/pdb.css">
+</head>
+<body>
+
+  <div id="progress-bar"></div>
+
+  <header class="hero">
+    <div class="hero-glow" aria-hidden="true"></div>
+    <div class="hero-inner">
+      <p class="eyebrow">Canine Companions</p>
+      <h1 class="header-title" data-animate-words>Popular Dog Breeds</h1>
+      <p class="header-tagline">Meet loyal companions with different traits and needs.</p>
+      <a href="#featured" class="hero-cta">
+        <span>Meet the breeds</span>
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </a>
+    </div>
+  </header>
+
+  <nav id="site-nav">
+    <ul class="nav-ul">
+      <li class="nav-li"><a href="#introduction" class="nav-link">Introduction</a></li>
+      <li class="nav-li"><a href="#featured" class="nav-link">Featured Breeds</a></li>
+      <li class="nav-li"><a href="#guide" class="nav-link">Care Guide</a></li>
+      <li class="nav-li"><a href="#resown" class="nav-link">Responsible Ownership</a></li>
+    </ul>
+    <span class="nav-indicator" id="nav-indicator" aria-hidden="true"></span>
+  </nav>
+
+  <main>
+
+    <!-- Introduction -->
+    <section id="introduction" class="introduction reveal">
+      <div class="introduction-text">
+        <p class="kicker">01 — Introduction</p>
+        <h2 class="introduction-heading">Understanding Our Canine Companions</h2>
+        <p class="introduction-paragraph-1 introduction-paragraph">Dogs have lived alongside humans for thousands of years as companions, helpers, and working animals. Different breeds developed recognizable physical features, energy levels, and behavioral tendencies.</p>
+        <p class="introduction-paragraph-2 introduction-paragraph">A dog's breed can provide useful background, but every animal has an individual personality. Age, health, training, socialization, and living environment also influence how a dog behaves.</p>
+      </div>
+      <figure class="introduction-media">
+        <img src="assets/batch%201%202D/Popular%20Dog%20Breed/main.jpg" alt="Several dogs together with their owner">
+      </figure>
+    </section>
+
+    <!-- Featured breeds — interactive showcase -->
+    <section id="featured" class="featured reveal">
+      <div class="section-head">
+        <p class="kicker">02 — Featured Breeds</p>
+        <h2 class="featured-heading main-heading">Three Well-Known Breeds</h2>
+        <p class="section-sub">Select a breed to see what makes it distinct.</p>
+      </div>
+
+      <div class="showcase" id="breed-showcase">
+        <div class="showcase-display">
+          <div class="showcase-media">
+            <img id="showcase-img" src="assets/batch%201%202D/Popular%20Dog%20Breed/card1.jpg" alt="Golden Retriever">
+          </div>
+          <div class="showcase-body">
+            <h2 class="article-heading" id="showcase-heading">Golden Retriever</h2>
+            <p class="article-paragraph" id="showcase-paragraph">Golden Retrievers are known for their friendly nature, intelligence, and willingness to work with people. They are active dogs that benefit from exercise, training, and social interaction.</p>
+            <p class="breed-detail" id="showcase-detail">Common trait — Friendly and trainable</p>
+          </div>
+        </div>
+
+        <ul class="showcase-tabs" role="tablist" aria-label="Choose a breed">
+          <li role="presentation">
+            <button class="showcase-tab is-active"
+              role="tab" aria-selected="true"
+              data-img="assets/batch%201%202D/Popular%20Dog%20Breed/card1.jpg"
+              data-alt="Golden Retriever"
+              data-heading="Golden Retriever"
+              data-paragraph="Golden Retrievers are known for their friendly nature, intelligence, and willingness to work with people. They are active dogs that benefit from exercise, training, and social interaction."
+              data-detail="Common trait — Friendly and trainable">
+              <span class="tab-index">01</span>
+              <span class="tab-name">Golden Retriever</span>
+            </button>
+          </li>
+          <li role="presentation">
+            <button class="showcase-tab"
+              role="tab" aria-selected="false"
+              data-img="assets/batch%201%202D/Popular%20Dog%20Breed/card2.jpg"
+              data-alt="Siberian Husky"
+              data-heading="Siberian Husky"
+              data-paragraph="Siberian Huskies were developed as endurance sled dogs in cold environments. They are energetic, athletic, and recognized for their thick coats and striking facial markings."
+              data-detail="Important need — Regular activity and secure spaces">
+              <span class="tab-index">02</span>
+              <span class="tab-name">Siberian Husky</span>
+            </button>
+          </li>
+          <li role="presentation">
+            <button class="showcase-tab"
+              role="tab" aria-selected="false"
+              data-img="assets/batch%201%202D/Popular%20Dog%20Breed/card3.jpg"
+              data-alt="Shih Tzu"
+              data-heading="Shih Tzu"
+              data-paragraph="Shih Tzus are small companion dogs with long coats and expressive faces. They enjoy being near people and require regular grooming to keep their coat clean and comfortable."
+              data-detail="Size group — Small companion breed">
+              <span class="tab-index">03</span>
+              <span class="tab-name">Shih Tzu</span>
+            </button>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Care guide — interactive checklist -->
+    <section id="guide" class="care-guide reveal">
+      <div class="guide-inner">
+        <div class="guide-intro">
+          <p class="kicker kicker-light">03 — Care Guide</p>
+          <h2 class="guide-heading main-heading">Basic Dog Care</h2>
+          <p class="guide-paragraph">Every dog depends on responsible care. Owners should plan for the animal's needs throughout its life rather than choosing a pet based only on appearance.</p>
+          <p class="guide-progress" id="guide-progress">0 of 7 checked</p>
+        </div>
+        <ul class="care-list-wrap" id="care-checklist">
+          <li class="care-list"><button class="care-check" type="button"><span class="check-mark"></span><span class="check-text">Provide suitable food and fresh water.</span></button></li>
+          <li class="care-list"><button class="care-check" type="button"><span class="check-mark"></span><span class="check-text">Schedule veterinary checkups and vaccinations.</span></button></li>
+          <li class="care-list"><button class="care-check" type="button"><span class="check-mark"></span><span class="check-text">Give the dog appropriate daily exercise.</span></button></li>
+          <li class="care-list"><button class="care-check" type="button"><span class="check-mark"></span><span class="check-text">Use patient and consistent positive training.</span></button></li>
+          <li class="care-list"><button class="care-check" type="button"><span class="check-mark"></span><span class="check-text">Maintain grooming and dental care.</span></button></li>
+          <li class="care-list"><button class="care-check" type="button"><span class="check-mark"></span><span class="check-text">Provide identification and a secure living area.</span></button></li>
+          <li class="care-list"><button class="care-check" type="button"><span class="check-mark"></span><span class="check-text">Give attention, rest, and safe social experiences.</span></button></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Responsible ownership -->
+    <section id="resown" class="responsible-ownership reveal">
+      <figure class="resown-media">
+        <img src="assets/batch%201%202D/Popular%20Dog%20Breed/highlight.jpg" alt="Responsible dog care and adoption">
+      </figure>
+      <div class="resown-text">
+        <p class="kicker">04 — Responsible Ownership</p>
+        <h2 class="resown-heading main-heading">Choose Through Research, Not Appearance</h2>
+        <p class="resown-paragraph">Before welcoming a dog, consider available space, time, budget, activity level, and the needs of everyone in the household. Some breeds require extensive exercise or grooming.</p>
+        <p class="resown-paragraph">Adoption centers and responsible breeders can provide information about a dog's history and needs. A careful choice supports a safer and more lasting relationship.</p>
+        <p class="resown-detail">Ownership commitment — A dog needs dependable care throughout its entire life.</p>
+      </div>
+    </section>
+
+    <!-- Aside -->
+    <aside class="safety-aside reveal">
+      <span class="pin" aria-hidden="true"></span>
+      <h2 class="aside-heading main-heading">Safety Reminder</h2>
+      <p class="aside-paragraph">Ask the owner before approaching an unfamiliar dog. Move calmly and allow the dog to choose whether to interact.</p>
+      <blockquote class="short-reminder">Do not disturb a dog that is eating, sleeping, frightened, or caring for puppies.</blockquote>
+    </aside>
+
+  </main>
+
+  <footer>
+    <p class="footer-paragraph-1">Canine Companions © 2026 · Images for educational use</p>
+    <p class="footer-paragraph-2">Webpage created by: Kaizer V. Entrata, BSIT 2D</p>
+  </footer>
+
+  <button id="back-to-top" aria-label="Back to top">↑</button>
+
+  <script src="js/pdb.js"></script>
+</body>
+</html>
