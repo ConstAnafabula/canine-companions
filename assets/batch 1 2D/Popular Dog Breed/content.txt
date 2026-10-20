@@ -1,0 +1,88 @@
+TOPIC: Popular Dog Breeds
+WEBSITE TITLE: Canine Companions
+TAGLINE: Meet loyal companions with different traits and needs.
+NAVIGATION LABELS: Introduction | Featured Breeds | Care Guide | Responsible Ownership
+
+============================================================
+
+SECTION 1 — INTRODUCTION
+HEADING: Understanding Our Canine Companions
+PARAGRAPH 1:
+Dogs have lived alongside humans for thousands of years as companions, helpers, and working animals. Different breeds developed recognizable physical features, energy levels, and behavioral tendencies.
+PARAGRAPH 2:
+A dog's breed can provide useful background, but every animal has an individual personality. Age, health, training, socialization, and living environment also influence how a dog behaves.
+IMAGE: Use main.jpg, showing several dogs or a dog with its owner.
+
+============================================================
+
+SECTION 2 — FEATURED ITEMS
+HEADING: Three Well-Known Breeds
+
+============================================================
+
+ARTICLE 1
+HEADING: Golden Retriever
+PARAGRAPH: Golden Retrievers are known for their friendly nature, intelligence, and willingness to work with people. They are active dogs that benefit from exercise, training, and social interaction.
+EXTRA DETAIL: Common trait — Friendly and trainable
+IMAGE: Use card1.jpg, showing a Golden Retriever.
+
+============================================================
+
+ARTICLE 2
+HEADING: Siberian Husky
+PARAGRAPH: Siberian Huskies were developed as endurance sled dogs in cold environments. They are energetic, athletic, and recognized for their thick coats and striking facial markings.
+EXTRA DETAIL: Important need — Regular activity and secure spaces
+IMAGE: Use card2.jpg, showing a Siberian Husky.
+
+============================================================
+
+ARTICLE 3
+HEADING: Shih Tzu
+PARAGRAPH: Shih Tzus are small companion dogs with long coats and expressive faces. They enjoy being near people and require regular grooming to keep their coat clean and comfortable.
+EXTRA DETAIL: Size group — Small companion breed
+IMAGE: Use card3.jpg, showing a Shih Tzu.
+
+============================================================
+
+SECTION 3 — IMPORTANT INFORMATION
+HEADING: Basic Dog Care
+INTRODUCTORY PARAGRAPH:
+Every dog depends on responsible care. Owners should plan for the animal's needs throughout its life rather than choosing a pet based only on appearance.
+LIST:
+1. Provide suitable food and fresh water.
+2. Schedule veterinary checkups and vaccinations.
+3. Give the dog appropriate daily exercise.
+4. Use patient and consistent positive training.
+5. Maintain grooming and dental care.
+6. Provide identification and a secure living area.
+7. Give attention, rest, and safe social experiences.
+
+============================================================
+
+SECTION 4 — FEATURED HIGHLIGHT
+HEADING: Choose Through Research, Not Appearance
+PARAGRAPH 1:
+Before welcoming a dog, consider available space, time, budget, activity level, and the needs of everyone in the household. Some breeds require extensive exercise or grooming.
+PARAGRAPH 2:
+Adoption centers and responsible breeders can provide information about a dog's history and needs. A careful choice supports a safer and more lasting relationship.
+HIGHLIGHTED DETAIL:
+Ownership commitment — A dog needs dependable care throughout its entire life.
+IMAGE: Use highlight.jpg, showing responsible dog care or adoption.
+
+============================================================
+
+ASIDE — ADDITIONAL INFORMATION
+HEADING: Safety Reminder
+
+PARAGRAPH:
+Ask the owner before approaching an unfamiliar dog. Move calmly and allow the dog to choose whether to interact.
+
+SHORT DETAIL:
+Do not disturb a dog that is eating, sleeping, frightened, or caring for puppies.
+
+============================================================
+
+FOOTER
+Canine Companions © 2026 · Images for educational use
+Webpage created by: Write your full name here with year and section
+

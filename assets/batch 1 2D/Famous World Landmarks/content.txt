@@ -1,0 +1,88 @@
+TOPIC: Famous World Landmarks
+WEBSITE TITLE: Landmarks of the World
+TAGLINE: Discover the stories behind places recognized across the globe.
+NAVIGATION LABELS: Introduction | Iconic Places | Visitor Guide | Preservation
+
+============================================================
+
+SECTION 1 — INTRODUCTION
+HEADING: Places That Represent History and Culture
+PARAGRAPH 1:
+Landmarks are structures or locations that become closely connected with a country's identity. They may be admired because of their architecture, history, cultural meaning, or impressive scale.
+PARAGRAPH 2:
+Visiting a landmark gives travelers an opportunity to learn beyond photographs. The surrounding streets, landscapes, museums, and communities can reveal how the site continues to influence people today.
+IMAGE: Use main.jpg, showing a famous landmark or travel scene.
+
+============================================================
+
+SECTION 2 — FEATURED ITEMS
+HEADING: Three Iconic Destinations
+
+============================================================
+
+ARTICLE 1
+HEADING: Eiffel Tower
+PARAGRAPH: The Eiffel Tower was built in Paris for the 1889 World's Fair. Its iron framework and distinctive shape turned it into one of the most recognizable symbols of France.
+EXTRA DETAIL: Location — Paris, France
+IMAGE: Use card1.jpg, showing the Eiffel Tower.
+
+============================================================
+
+ARTICLE 2
+HEADING: Great Wall of China
+PARAGRAPH: The Great Wall consists of fortifications built across northern China during different historical periods. Its paths cross mountains, grasslands, and other dramatic landscapes.
+EXTRA DETAIL: Category — Historic fortification system
+IMAGE: Use card2.jpg, showing the Great Wall of China.
+
+============================================================
+
+ARTICLE 3
+HEADING: Taj Mahal
+PARAGRAPH: The Taj Mahal is a white marble mausoleum celebrated for its symmetry, detailed decoration, gardens, and reflecting pool. It was commissioned by Emperor Shah Jahan.
+EXTRA DETAIL: Location — Agra, India
+IMAGE: Use card3.jpg, showing the Taj Mahal.
+
+============================================================
+
+SECTION 3 — IMPORTANT INFORMATION
+HEADING: Responsible Landmark Visits
+INTRODUCTORY PARAGRAPH:
+Famous sites receive many visitors. Careful behavior helps protect the location and creates a better experience for travelers and local communities.
+LIST:
+1. Research opening hours and visitor regulations.
+2. Purchase tickets through official channels when required.
+3. Follow signs, barriers, and designated walking paths.
+4. Avoid touching fragile surfaces or historic objects.
+5. Ask permission before photographing people.
+6. Keep the area clean and reduce unnecessary waste.
+7. Learn about the site's history and cultural significance.
+
+============================================================
+
+SECTION 4 — FEATURED HIGHLIGHT
+HEADING: Protecting Places for the Future
+PARAGRAPH 1:
+Landmarks can be affected by weather, pollution, natural disasters, conflict, and heavy tourism. Conservation teams study materials and repair damage using carefully planned methods.
+PARAGRAPH 2:
+Visitors also contribute to preservation by respecting rules and supporting responsible tourism. Even simple actions can help important places remain available to future generations.
+HIGHLIGHTED DETAIL:
+Travel principle — Take photographs, learn deeply, and leave the place unharmed.
+IMAGE: Use highlight.jpg, showing conservation or respectful travel.
+
+============================================================
+
+ASIDE — ADDITIONAL INFORMATION
+HEADING: Travel Tip
+
+PARAGRAPH:
+Arrive early when possible and prepare for weather changes. Comfortable shoes and a reusable water container can make long visits easier where permitted.
+
+SHORT DETAIL:
+Respect areas where photography or entry is restricted.
+
+============================================================
+
+FOOTER
+Landmarks of the World © 2026 · Images for educational use
+Webpage created by: Write your full name here with year and section
+

@@ -1,0 +1,88 @@
+TOPIC: Festivals of the Philippines
+WEBSITE TITLE: Fiesta Filipinas
+TAGLINE: Celebrate the color, rhythm, and spirit of Filipino communities.
+NAVIGATION LABELS: Introduction | Celebrations | Festival Guide | Cultural Spirit
+
+============================================================
+
+SECTION 1 — INTRODUCTION
+HEADING: A Nation of Colorful Celebrations
+PARAGRAPH 1:
+Festivals in the Philippines bring communities together through music, dance, costumes, food, faith, and local tradition. Many celebrations reflect the history and identity of the place where they are held.
+PARAGRAPH 2:
+From energetic street dancing to flower-covered floats and smiling masks, each festival offers a different visual experience. Visitors can enjoy the celebration while learning why it is meaningful to local residents.
+IMAGE: Use main.jpg, showing a colorful Philippine festival.
+
+============================================================
+
+SECTION 2 — FEATURED ITEMS
+HEADING: Celebrations Across the Country
+
+============================================================
+
+ARTICLE 1
+HEADING: Sinulog Festival
+PARAGRAPH: Sinulog is celebrated in Cebu and is known for lively street dances, drumbeats, and colorful costumes. The celebration honors the Santo Niño and attracts visitors from many places.
+EXTRA DETAIL: Location — Cebu City
+IMAGE: Use card1.jpg, showing Sinulog dancers.
+
+============================================================
+
+ARTICLE 2
+HEADING: Panagbenga Festival
+PARAGRAPH: Panagbenga is Baguio City's flower festival. Its grand parade features floats decorated with flowers, creative costumes, and performances inspired by the culture of the Cordillera region.
+EXTRA DETAIL: Meaning of Panagbenga — Season of blooming
+IMAGE: Use card2.jpg, showing a flower float or parade.
+
+============================================================
+
+ARTICLE 3
+HEADING: MassKara Festival
+PARAGRAPH: MassKara is recognized for performers wearing bright costumes and smiling masks. Street dance competitions fill Bacolod City with music, movement, and an optimistic atmosphere.
+EXTRA DETAIL: Location — Bacolod City
+IMAGE: Use card3.jpg, showing a MassKara mask or dancer.
+
+============================================================
+
+SECTION 3 — IMPORTANT INFORMATION
+HEADING: Enjoying a Festival Responsibly
+INTRODUCTORY PARAGRAPH:
+Large celebrations can be exciting and crowded. Visitors should prepare in advance and show respect for the people, traditions, and public spaces involved.
+LIST:
+1. Learn the meaning and history of the festival.
+2. Check official schedules and designated viewing areas.
+3. Wear comfortable clothing suitable for the weather.
+4. Keep personal belongings secure in crowded places.
+5. Ask permission before taking close photographs of people.
+6. Dispose of waste properly and protect decorations.
+7. Follow local rules and emergency instructions.
+
+============================================================
+
+SECTION 4 — FEATURED HIGHLIGHT
+HEADING: More Than a Street Parade
+PARAGRAPH 1:
+A festival is not only a visual attraction. It may express devotion, commemorate local history, celebrate a harvest, or show the creativity and resilience of a community.
+PARAGRAPH 2:
+Local artists, dancers, musicians, vendors, and volunteers work together to prepare these events. Their contributions transform a public celebration into a shared cultural experience.
+HIGHLIGHTED DETAIL:
+Remember — Celebrate with the community, not only for photographs.
+IMAGE: Use highlight.jpg, showing community participation or a festival performance.
+
+============================================================
+
+ASIDE — ADDITIONAL INFORMATION
+HEADING: Festival Etiquette
+
+PARAGRAPH:
+Leave pathways open, follow barriers, and avoid interrupting performers. Respect religious activities and local customs even when they are unfamiliar.
+
+SHORT DETAIL:
+Support local vendors and responsibly made products when possible.
+
+============================================================
+
+FOOTER
+Fiesta Filipinas © 2026 · Images for educational use
+Webpage created by: Write your full name here with year and section
+
